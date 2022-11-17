@@ -1,4 +1,4 @@
-# Sidebar Resposiva
+# Sidebar Responsiva
 
 Este projeto foi proposto pela plataforma da Rocketseat da trilha **Discover**. Na qual socilita que se utilize os seguintes cursos:
 
