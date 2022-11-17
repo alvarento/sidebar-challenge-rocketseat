@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&family=Noto+Sans:wght@400;700&family=Poppins:wght@300;400;500&family=Righteous&family=Sarala:wght@400;700&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <title>Responsive Sidebar</title>
+    <!-- Link Styles -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-close.css">
+</head>
+<body>
+    <aside class="sidebar close">
+        <div class="logo-details">
+            <img src="images/logo.svg" alt="logo">
+            <img id="btn-menu" src="images/menu.svg" alt="menu">
+        </div>
+        <ul class="nav-list">
+            <li class="search">
+                <img src="images/search.svg" alt="buscar">
+                <input type="text" placeholder="Buscar">
+            </li>
+            <li>
+                <a href="#">
+                    <img src="images/grid.svg" alt="grid">
+                    <span class="link-name">Dashboard</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img src="images/pet.svg" alt="pet">
+                    <span class="link-name">Pets</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img src="images/user.svg" alt="usuário">
+                    <span class="link-name">Clientes</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img src="images/vet.svg" alt="vet">
+                    <span class="link-name">Vets</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img src="images/settings.svg" alt="configurações">
+                    <span class="link-name">Ajustes</span>
+                </a>
+            </li>
+        </ul>
+        <div id="profile">
+            <div class="profile-details">
+                <img src="images/photo.jpg" alt="foto de perfil">
+                <div class="profile-content">
+                    <p class="name">Maria Candida</p>
+                    <p class="designation">Veterinária</p>
+                </div>
+            </div>
+            <img id="log-out" src="images/log-out.svg" alt="sair">
+        </div>
+        <section class="home-section">
+            <p class="text">Dashboard</p>
+        </section>
+    </aside>
+    
+    <!-- Scripts -->
+    <script src="js/script.js"></script>
+</body>
+</html>
