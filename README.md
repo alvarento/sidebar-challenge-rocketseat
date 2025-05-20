@@ -13,4 +13,4 @@ O Objetivo do desafio é replicar o layout de uma Sidebar de navegação resposi
 ## :thumbsup: Resultado final
 <h3>Quer ver :eyes: como ficou o resultado final?<br>
 da uma olhada no link da página: :point_down:</h3>
-<h3>:smirk::point_right: <a href="https://alvaronascimento-dev.github.io/sidebar-challenge-rocketseat" target="_blank">Sidebar Responsiva</a></h3>
+<h3>:smirk::point_right: <a href="https://alvarento.github.io/sidebar-challenge-rocketseat" target="_blank">Sidebar Responsiva</a></h3>
